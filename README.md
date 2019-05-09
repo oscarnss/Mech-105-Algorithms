@@ -9,3 +9,6 @@ This algorithm is made to perform LU Factorization.
 ### Simpson's Algorithm
 "Simpson.m"
 This algorithm is made to perform Simpson's 1/3 Rule.
+### Bisection Algorithm
+"mybisect.m"
+This algorithm uses the bisection method to find roots.
